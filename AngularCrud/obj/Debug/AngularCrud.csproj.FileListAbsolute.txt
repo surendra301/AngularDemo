@@ -1,0 +1,1 @@
+F:\AngularProjects\AngularCrud\AngularCrud\obj\Debug\AngularCrud.csprojAssemblyReference.cache
